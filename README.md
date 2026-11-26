@@ -6,15 +6,14 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** ________Quarteto Fantástico________
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Guilherme Victor | 2410265 | Guilherme-Eng3011 |
+| Divino Filho | 2409798 | DSanches1206 |
+| Lucas Lucena | 2408620 | linkas77 |
+| Leonardo Aranha | 2410873 | leonardoaranha99-sketch |
 
 ## O cenário
 
